@@ -1,5 +1,5 @@
-# jiegillet.github.io
-Visualizing some of my projects
+# Welcome to my GitHub.io page
+
 
 Check out my [SkyWriter project](https://jiegillet.github.io/sky-writer/)
 
